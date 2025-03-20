@@ -6,7 +6,7 @@
 import java.util.*;
 
 //new class
-class RyanWaterfallModel{
+class WaterfallModel{
 
     //new main
     public static void method(String[] args){
